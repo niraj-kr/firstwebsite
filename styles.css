@@ -1,0 +1,93 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Architects Daughter', cursive;
+}
+h1{ font-size: 3.625rem;
+    margin-top: 50px;
+    font-family: 'Architects Daughter', cursive;
+    color: rgb(102, 191, 121);
+    line-height: 1;
+}
+.top-container{
+font-size: 2.3rem;
+color: rgb(102, 191, 121);
+}
+.top-container {
+    background-color: #E4F9F5;
+     
+}
+.bottom-cloud{
+    width: 
+    100%;
+}
+.profile{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.code{
+    width: 25%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.food{
+    width: 25%;
+    margin: left;
+}
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.stu{
+    text-decoration: underline;
+}
+h2{
+    color: rgb(102, 191, 121);
+}
+h3{
+    color: rgb(102, 191, 121);
+}
+.btn {
+	background-color:#44c767;
+	-webkit-border-top-left-radius:28px;
+	-moz-border-radius-topleft:28px;
+	border-top-left-radius:28px;
+	-webkit-border-top-right-radius:28px;
+	-moz-border-radius-topright:28px;
+	border-top-right-radius:28px;
+	-webkit-border-bottom-right-radius:28px;
+	-moz-border-radius-bottomright:28px;
+	border-bottom-right-radius:28px;
+	-webkit-border-bottom-left-radius:28px;
+	-moz-border-radius-bottomleft:28px;
+	border-bottom-left-radius:28px;
+text-indent:0;
+	border:1px solid blue;
+	display:inline-block;
+	color:#ffffff;
+    font-family: 'Architects Daughter', cursive;
+	font-size:15px;
+	font-weight:bold;
+	font-style:normal;
+height:50px;
+	line-height:50px;
+width:140px;
+	text-decoration:none;
+	text-align:center;
+	text-shadow:1px 1px 0px blueviolet;
+}.bin:hover {
+	background-color:red
+}.bin:active {
+	position:relative;
+    top:1px;
+}
+.bottom-container{
+    background-color: cyan;
+}
